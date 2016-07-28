@@ -1,11 +1,19 @@
-# Lifted-Locations
-WordPress plugin to add a Locations post type
+=== Lifted Locations ===
+Contributors: bmoredrew
+Tags: liftedhq, locations
+Requires at least: 3.0
+Tested up to: 4.6
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-### Description
+Add Locations to a Lifted Theme
+
+== Description ==
 
 Add Locations Functionality to a Lifted Theme. Can be used with any theme where you need a Locations post type, but Lifted themes have built-in templates to support this plugin if activated.
 
-### Installation
+== Installation ==
 
 1. Upload plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
